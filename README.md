@@ -1,2 +1,4 @@
 # Babator-iOS-native-SDK
-Babator
+
+
+https://github.com/Babator/Babator-iOS-native-SDK/wiki
