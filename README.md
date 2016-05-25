@@ -5,4 +5,4 @@
 **Babator’s video views generator engine accurately predicts the viewer’s intentions and matches videos to viewers preferences.**
 
 
-TO Start Using Our SDK Please Fololow: https://github.com/Babator/Babator-iOS-native-SDK/wiki
+TO Start Using Our SDK Please Follow: https://github.com/Babator/Babator-iOS-native-SDK/wiki
