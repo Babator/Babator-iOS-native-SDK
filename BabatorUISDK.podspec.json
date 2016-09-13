@@ -12,7 +12,7 @@
   "homepage": "http://www.babator.com/",
   "requires_arc": false,
   "source": {
-    "git": "https://github.com/kaltura/kaltura_ios_sdk_compiled.git"
+    "git": "https://github.com/Babator/Babator-iOS-native-SDK/tree/master/v0.2.0-beta/BabatorUI.framework"
   },
   "ios": {
     "vendored_frameworks": "BabatorUI.framework"
