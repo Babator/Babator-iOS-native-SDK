@@ -6,23 +6,23 @@
 	<dict>
 		<key>BBCategoryView.nib</key>
 		<data>
-		P1yfJrqFFhilFPCegV+kBZgX1eg=
+		VOES7H1j5UOLi7X7nOgO4ChT7L8=
 		</data>
 		<key>BBListView.nib</key>
 		<data>
-		EJ99kJpL6jsE25O4Qd08N5b0u8g=
+		Xui4TFfpXSKvmAyAzvRjmMX6svs=
 		</data>
 		<key>BBRecommendationTableViewCell.nib</key>
 		<data>
-		cldiLEs0Lvu3zR0WhwbBXobvo60=
+		Zl6F8d79dKTOjptFpMKMDyl9EMM=
 		</data>
 		<key>BBTopRecommendationView.nib</key>
 		<data>
-		SX5ogkrnZ7f+zrbesKPeqjtlhWg=
+		vbtdCHJD3cMFwQqCLUrFfYSCrDs=
 		</data>
 		<key>BBVideoCollectionViewCell.nib</key>
 		<data>
-		txdr0NSqe7zohsLKNRLFqT9/fR8=
+		+8nT8S8qVVz22GKyhZ+fr6AwW9I=
 		</data>
 		<key>Headers/BabatorProtocols.h</key>
 		<data>
@@ -55,55 +55,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P1yfJrqFFhilFPCegV+kBZgX1eg=
+			VOES7H1j5UOLi7X7nOgO4ChT7L8=
 			</data>
 			<key>hash2</key>
 			<data>
-			7cBQlIeIeSx7DR1PSzAX8oayCpB0oap4/LokSwYH6/8=
+			2yU6R6kl98AQaLb1qaV9uk5Iq80fdnIul0AgZODZh58=
 			</data>
 		</dict>
 		<key>BBListView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EJ99kJpL6jsE25O4Qd08N5b0u8g=
+			Xui4TFfpXSKvmAyAzvRjmMX6svs=
 			</data>
 			<key>hash2</key>
 			<data>
-			fu3XysXEypHgRRMi9cUtoX7VmIGtyeamk6NoGs++03g=
+			FV8532teMLI2ayRu6iQeCEoUwOvGw4xB1X4Cq/11WLU=
 			</data>
 		</dict>
 		<key>BBRecommendationTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cldiLEs0Lvu3zR0WhwbBXobvo60=
+			Zl6F8d79dKTOjptFpMKMDyl9EMM=
 			</data>
 			<key>hash2</key>
 			<data>
-			yU88s6FqmJRC876OGLGdlCu6cNP7iwSR1dAG9yo8r/Y=
+			kcX+2+gzv3ZlZ1WuuCirZPmEoBYZZr+fwZhOoT48GT8=
 			</data>
 		</dict>
 		<key>BBTopRecommendationView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SX5ogkrnZ7f+zrbesKPeqjtlhWg=
+			vbtdCHJD3cMFwQqCLUrFfYSCrDs=
 			</data>
 			<key>hash2</key>
 			<data>
-			NjL5Z0FhcgN2TkgLY3nLuh2paZt4WiluVN5ApNMnvw0=
+			Gkb4PmB0Tt1FgtotIkjcM0qkC8IxW3sx2RVkUmUHaQ4=
 			</data>
 		</dict>
 		<key>BBVideoCollectionViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			txdr0NSqe7zohsLKNRLFqT9/fR8=
+			+8nT8S8qVVz22GKyhZ+fr6AwW9I=
 			</data>
 			<key>hash2</key>
 			<data>
-			J3ws3LhKr2RSnjImLeJ8IEkasabuCHWnrpRj93EUA/c=
+			btuKF6taXui+WI1LYpO8/wZJTbYVxcC+mnSgS9BxpJU=
 			</data>
 		</dict>
 		<key>Headers/BabatorProtocols.h</key>
