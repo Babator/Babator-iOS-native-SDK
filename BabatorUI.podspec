@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 		s.license						= {:"type" => "Commercial", :"text" => "http://www.babator.com/privacypolicy/"}
     s.summary           = 'Framework for presenting Babator’s viewers personalized videos to match their varied interests.'
     s.homepage          = 'http://www.babator.com/'
-	s.source   = { :git => 'https://github.com/Babator/Babator-iOS-native-SDK/raw/master/v0.2.1/BabatorUI.framework.zip'}
+	s.source   = { :git => 'https://github.com/Babator/Babator-iOS-native-SDK/tree/v0.2.1/v0.2.1'}
    	s.ios.vendored_frameworks   = 'BabatorUI.framework'
   	s.xcconfig  			     = { 'FRAMEWORK_SEARCH_PATHS' => '"${SRCROOT}/Pods/"'}
 	s.preserve_paths 			 = 'BabatorUI.framework'
