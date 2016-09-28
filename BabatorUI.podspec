@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
     s.name              = 'BabatorUI'
-    s.version           = '0.2.1'
+    s.version           = '0.2.3'
 		s.authors						= {:"BabatorUI" => "info@babator.com"}
 		s.license						= {:"type" => "Commercial", :"text" => "http://www.babator.com/privacypolicy/"}
     s.summary           = 'Framework for presenting Babator’s viewers personalized videos to match their varied interests.'
@@ -13,4 +13,3 @@ Pod::Spec.new do |s|
 	s.platforms = { 'ios' => "8.0" }
 	s.requires_arc = true
 end
-
