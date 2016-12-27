@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-    s.name              = 'BabatorSDK'
+    s.name              = 'BabatorUI'
     s.version           = '0.2.5'
 		s.authors						= {:"BabatorUI" => "info@babator.com"}
 		s.license						= {:"type" => "Commercial", :"text" => "http://www.babator.com/privacypolicy/"}
